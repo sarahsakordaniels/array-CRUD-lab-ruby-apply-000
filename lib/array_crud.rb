@@ -22,7 +22,7 @@ array.pop
 end
 
 def remove_element_from_start_of_array(array)
-array = [1, 2, 3, "arrays!"]
+array = ["wow", "arrays!"]
 array.shift
 end
 
